@@ -1,0 +1,73 @@
+div {
+    margin: 0 auto;
+    width: 900px;
+}
+#arriba{
+    background-color: #A4BCDF;
+    border-radius: 1px;
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+    height: 200px;
+    margin: 0 auto;
+    font-size: 20px;
+    text-align: center;
+}
+#cabeza{
+padding: 15px;
+}
+#izquierda{
+    width: 120px;
+    height: 180px;
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+    background-color: #212224;
+    float: left;
+
+}
+#derecha{
+    background-color: #D4E6F1;
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+    width: 778px;
+    height: 178px;
+    float: left;
+
+}
+
+ul.menu {
+    clear: both;
+    float: left;
+    list-style: none;
+    margin: 0;
+    padding: 8px;
+    border-left:1px solid #7C7C7C;
+    }
+    ul.menu li {
+    display: inline;
+
+    }
+    ul.menu li a:link, ul.menu li a:visited {
+    padding: .3em;
+    display: block;
+    text-decoration: none;
+    color: #333;
+    background: #F4F4F4;
+    border-top:1px solid #7C7C7C;
+    border-right:1px solid #7C7C7C;
+    border-bottom:1px solid #9C9C9C;
+    }
+    ul.menu li a:hover{
+        background-color: rgb(27, 24, 24);
+        color: white;
+    }
+#horario
+{   
+    width: 780px;
+    height:210px;
+    background:#D8D8D8;
+    text-align:center;
+}
+
